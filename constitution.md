@@ -84,3 +84,7 @@ Any behaviour found to hatful against another user will result in a session ban 
 
 ## 4.2
 Any behaviour found to be intentionally causing damage to the project will result in a session ban with the outcome being decided in the next vote.
+
+
+# 5.0 - Moderation
+Moderation rules are still being created and so Joshua Fogg reserves the right to add them over the next week without breaking the rules of this constitution. The way it will essentially work is a tiered permissions system with votes needed to go up each level.
