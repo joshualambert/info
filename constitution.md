@@ -76,7 +76,7 @@ Anyone can propose additional "product" types.
 Corrections may be made without vote. An example would be a symlink that is missing the file type or a document with a spelling error.
 
 
-### 4.0 - Behaviour
+# 4.0 - Behaviour
 Treat others as you wish to be treated yourself.
 
 ## 4.1
