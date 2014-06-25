@@ -13,6 +13,7 @@ For a vote to succesful it must meet the following conditions:
 * **1.2.1** More than 60% or more must agree on a decision, else it is carried forward to the next session.
 * **1.2.2** At least 10% of all registered voters must vote, else it is carried forward to the next session.
 * **1.2.3** No exceptions are to be made to the above rules.
+* **1.2.4** Note: voting to abstain is not the same as not voting.
 
 ### 1.3
 If a vote has been carried over three times then it is nulled and must be proposed again for reconsideration.
