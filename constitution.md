@@ -10,17 +10,17 @@ Anyone can register as a voter, and every voter has the same power. No exception
 
 ### 1.2
 For a vote to succesful it must meet the following conditions:
-* **1.1.1** More than 60% or more must agree on a decision, else it is carried forward to the next session.
-* **1.1.2** At least 10% of all registered voters must vote, else it is carried forward to the next session.
-* **1.1.3** No exceptions are to be made to the above rules.
+* **1.2.1** More than 60% or more must agree on a decision, else it is carried forward to the next session.
+* **1.2.2** At least 10% of all registered voters must vote, else it is carried forward to the next session.
+* **1.2.3** No exceptions are to be made to the above rules.
 
 ### 1.3
 If a vote has been carried over three times then it is nulled and must be proposed again for reconsideration.
 
 ### 1.4
 Anyone who's a registered voter can propose a change. No exceptions.
-* **1.3.1** To make a change to an existing file, create a merge request.
-* **1.3.2** To make a new file, file a request [here](https://github.com/democracy-project/propositions/issues).
+* **1.4.1** To make a change to an existing file, create a merge request.
+* **1.4.2** To make a new file, file a request [here](https://github.com/democracy-project/propositions/issues).
 
 ### 1.5
 an be changed (including this constitution). No exceptions.
@@ -65,8 +65,8 @@ The Democracy Project will begin with three unusable "products". These are a non
 
 ### 3.4
 The project is only allowed one of each type of project in order to stop duplication of effort.
-* **3.3.1** Any wallpapers given to the project must be put in the wallpapers repo.
-* **3.3.2** Any conky config's given to the project must be put in the conky repo.
+* **3.4.1** Any wallpapers given to the project must be put in the wallpapers repo.
+* **3.4.2** Any conky config's given to the project must be put in the conky repo.
 
 ### 3.5
 Anyone can propose additional "product" types.
