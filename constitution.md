@@ -28,7 +28,7 @@ an be changed (including this constitution). No exceptions.
 ### 1.6
 All voting will be done via Google Docs. After the vote is over the data will be downlaoded to an open document format where it will then be hosted along with a copy of the original questions [here](https://github.com/democracy-project/vote-data).
 
-### 1.
+### 1.7
 Porpositions with more than one outcome will use the AV system.
 
 
@@ -71,6 +71,9 @@ The project is only allowed one of each type of project in order to stop duplica
 ### 3.5
 Anyone can propose additional "product" types.
 * **3.5.1** Additional product type creation automatically updates the constitution with implied rules.
+
+### 3.6
+Corrections may be made without vote. An example would be a symlink that is missing the file type or a document with a spelling error.
 
 
 ### 4.0 - Behaviour
