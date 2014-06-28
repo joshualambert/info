@@ -77,15 +77,15 @@ Anyone can propose additional "product" types.
 Corrections may be made without vote. An example would be a symlink that is missing the file type or a document with a spelling error.
 
 
-# 4.0 - Behaviour
+## 4.0 - Behaviour
 Treat others as you wish to be treated yourself.
 
-## 4.1
+### 4.1
 Any behaviour found to hatful against another user will result in a session ban with the outcome being decided in the next vote.
 
-## 4.2
+### 4.2
 Any behaviour found to be intentionally causing damage to the project will result in a session ban with the outcome being decided in the next vote.
 
 
-# 5.0 - Moderation
+## 5.0 - Moderation
 Moderation rules are still being created and so Joshua Fogg reserves the right to add them over the next week without breaking the rules of this constitution. The way it will essentially work is a tiered permissions system with votes needed to go up each level.
