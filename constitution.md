@@ -1,15 +1,15 @@
 # 0.0 - The Constitution
-The following is an outline of the set up of the Democtatic Project's workings. By registering as a Democracy Project voter you agree to abide by any rules stated. If you at any time break these rules you will be given a strike. Three strikes and you will be banned for one month. Four strikes and you will be banned for a year. Five strikes and you will be banned for life.
+The following is an outline of the set up of the Democratic Project's workings. By registering as a Democracy Project voter you agree to abide by any rules stated. If you at any time break these rules you will be given a strike. Three strikes and you will be banned for one month. Four strikes and you will be banned for a year. Five strikes and you will be banned for life.
 
 
 ## 1.0 - Votes
-All decissions regarding the project are to be decided democratically by vote. No exceptions.
+All decisions regarding the project are to be decided democratically by vote. No exceptions.
 
 ### 1.1
 Anyone can register as a voter, and every voter has the same power. No exceptions.
 
 ### 1.2
-For a vote to succesful it must meet the following conditions:
+For a vote to successful it must meet the following conditions:
 * **1.2.1** More than 60% or more must agree on a decision, else it is carried forward to the next session.
 * **1.2.2** At least 10% of all registered voters must vote, else it is carried forward to the next session.
 * **1.2.3** No exceptions are to be made to the above rules.
@@ -27,10 +27,10 @@ Anyone who's a registered voter can propose a change. No exceptions.
 an be changed (including this constitution). No exceptions.
 
 ### 1.6
-All voting will be done via Google Docs. After the vote is over the data will be downlaoded to an open document format where it will then be hosted along with a copy of the original questions [here](https://github.com/democracy-project/vote-data).
+All voting will be done via Google Docs. After the vote is over the data will be downloaded to an open document format where it will then be hosted along with a copy of the original questions [here](https://github.com/democracy-project/vote-data).
 
 ### 1.7
-Porpositions with more than one outcome will use the AV system.
+Propositions with more than one outcome will use the AV system.
 
 
 ## 2.0 - Voters
@@ -40,7 +40,7 @@ To register as a voter one must simply provide a name and/or alias and an email 
 Emails will not be made public, will not be given to any third party, and will only be seen and used by Joshua Fogg. No exceptions.
 
 ### 2.2
-Each email you recieve marks the begining of a new session.
+Each email you receive marks the beginning of a new session.
 
 ### 2.3
 You will be emailed once every three days with the result of the previous sessions votes and a link to the new sessions votes.
